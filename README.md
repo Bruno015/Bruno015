@@ -18,7 +18,7 @@ Minhas redes
   </li>
 </ul>
 
-![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira)
+![](https://github-readme-stats.vercel.app/api?username=Bruno015)
 <!--
 **iurygdeoliveira/iurygdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
