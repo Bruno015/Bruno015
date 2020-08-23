@@ -1,8 +1,8 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, tenho bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena
+Meu nome é Bruno de Souza Alves, sou estudante nas áreas técnicas de Técnologia da Informação e Marketing pela Escola Técnica Estadual Monsehor Antônio Magliano. No momento estou buscando por me aprofundar no mundo da Programação Web.
 
-Minhas redes:
+Minhas redes
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87162006-b6c05980-c29b-11ea-8dfe-fba74549729b.png" width="18" alt="Youtube">
